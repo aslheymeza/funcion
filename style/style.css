@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(90deg, #ffff, blue)
+}
+
+#calcular{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
